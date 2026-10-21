@@ -37,5 +37,12 @@ Docu4ge processes files locally on your device. It does not upload your document
 
 Windows Settings > Apps > Installed apps > Docu4ge > Uninstall.
 
+## GUI
+<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/cf2216df-a904-4f5e-b4c1-a2119879e29c" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/afe95aaf-0ec8-4d95-85ce-c15cb91c0265" />
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/e17f35de-29a6-4c99-a5e8-6d850b232587" />
+
+
+
 ---
 © Siyabonga Mabena. All rights reserved.
